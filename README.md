@@ -1,4 +1,4 @@
 # Practice
 Practice of GITHUB
 <br>
-Author - Siva Nagireddy
+Author - <h1> Siva Nagireddy <h1>
